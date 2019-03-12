@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1492680531 source:f:\mca-2\project\cpp\atm_system\main.cpp
+	<iostream>
+	<Windows.h>
+	<time.h>
+	<conio.h>
+	<Mysql.h>
+	<stdlib.h>
+	<sstream>
+	<MMSystem.h>
+	<string>
+	<cstdlib>
+	<wininet.h>
+	<ctime>
+
+1492416911 source:c:\users\patel\downloads\atm_system (1)\atm_system\main.cpp
+	<iostream>
+	<Windows.h>
+	<time.h>
+	<conio.h>
+	<Mysql.h>
+	<stdlib.h>
+	<sstream>
+	<MMSystem.h>
+	<string>
+	<cstdlib>
+	<wininet.h>
+	<ctime>
+
